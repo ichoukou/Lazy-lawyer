@@ -1,7 +1,7 @@
 Lazy-lawyer
 ===========
 
-Lazy-lawyer是一个律师个人网站程序，包含了前端页面和简单的后台管理系统。程序使用LazyPHP框架开发，页面采用Bootstrap响应式布局。示例页面包含了杨昕月律师的一些个人信息，已经征得她本人的同意。
+Lazy-lawyer是一个律师个人网站程序，包含了前端页面和简单的后台管理。程序使用LazyPHP框架开发，页面采用Bootstrap响应式布局。
 
 ## 使用说明 ##
 
@@ -22,13 +22,9 @@ Lazy-lawyer是一个律师个人网站程序，包含了前端页面和简单的
 
 2.css采用改写后的Bootstrap.css，如需更改样式，可自己重写css样式，也可在Bootstrap.css基础上编写css，样式文件目录是”static/css/”
 
-3.后台登陆密码只是简单的MD5加密，使用者可以自行加强
+3.后台登陆密码是MD5加密，使用者可以自行加强
 
-4.网站的部分页面截图查看地址：http://www.xuhaixiao.com/lazy-lawyer/
-
-5.如需了解LazyPHP框架，可查看 https://github.com/easychen/LazyPHP
-
-6.确保“static/upload”文件夹有写权限
+4.确保“static/upload”文件夹有写权限
 
 ## 新增功能 ##
 
